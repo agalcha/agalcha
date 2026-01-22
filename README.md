@@ -6,3 +6,5 @@ I’m currently an ML Intern at ADaMS Lab, where I work on training and analyzin
 
 💌 Reach out to me at [agalcha@ualberta.ca](mailto:contact@johndoe.com) if you’re passionate about AI, love collaborating on fun projects, or just want to connect!  
 ![Description of GIF](1ed2f24a0444ee7a3f59f6aaa5f9d092.gif)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agalcha&layout=donut&theme=dark)
